@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/vic-en/sub-branch.git
+	branch = main
+	commit = 1a6aeea92f146f7e49a96388ce6ee198bdc6993a
+	parent = 5e384be4da57cda798f0c7d4d6f3da05738dd253
+	method = merge
+	cmdver = 0.4.3
